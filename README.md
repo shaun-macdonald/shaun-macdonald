@@ -1,7 +1,6 @@
 ### Hi there 👋 Hi there, I am Shaun MacDonald
 
 - 🔭 I’m currently working on a BSc Computing Science Degree
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Programming and Cybersecurity
 - 💬 Ask me about Anything you like!
 - 📫 How to reach me: Linnkedn
